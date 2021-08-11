@@ -1,4 +1,4 @@
-package com.test.other.dfafilter.textUtil;
+package com.test.datastructure.trie.textUtil;
 
 import org.apache.commons.lang3.StringUtils;
 

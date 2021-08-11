@@ -1,7 +1,7 @@
-package com.test.other.dfafilter.textUtil;
+package com.test.datastructure.trie.textUtil;
 
-import com.test.other.dfafilter.bean.SensitiveWord;
-import com.test.other.dfafilter.bean.SensitiveWordDetectionResult;
+import com.test.datastructure.trie.bean.SensitiveWord;
+import com.test.datastructure.trie.bean.SensitiveWordDetectionResult;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;

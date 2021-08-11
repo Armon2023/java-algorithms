@@ -1,4 +1,4 @@
-package com.test.other;
+package com.test.leetcode.stack;
 
 import org.apache.commons.lang3.StringUtils;
 

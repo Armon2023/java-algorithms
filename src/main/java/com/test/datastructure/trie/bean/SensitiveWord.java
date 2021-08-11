@@ -1,4 +1,4 @@
-package com.test.other.dfafilter.bean;
+package com.test.datastructure.trie.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
