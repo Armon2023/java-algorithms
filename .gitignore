@@ -12,3 +12,4 @@ gen
 /.gradle/
 .DS_Store
 /.settings/
+.vscode/
