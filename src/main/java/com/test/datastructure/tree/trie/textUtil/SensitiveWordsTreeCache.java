@@ -1,4 +1,4 @@
-package com.test.datastructure.trie.textUtil;
+package com.test.datastructure.tree.trie.textUtil;
 
 import org.apache.commons.lang3.StringUtils;
 

@@ -1,4 +1,4 @@
-package com.test.datastructure.trie.bean;
+package com.test.datastructure.tree.trie.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
